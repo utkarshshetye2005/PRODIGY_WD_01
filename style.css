@@ -1,0 +1,43 @@
+body{
+margin:0;
+font-family:Arial;
+}
+
+#navbar{
+position:fixed;
+top:0;
+width:100%;
+background:linear-gradient(to right, blue, cyan);
+padding:15px;
+}
+
+#navbar ul{
+list-style:none;
+display:flex;
+justify-content:center;
+margin:0;
+padding:0;
+}
+
+#navbar ul li{
+margin:0 20px;
+}
+
+#navbar ul li a{
+text-decoration:none;
+color:white;
+font-size:18px;
+padding:8px 12px;
+transition:0.3s;
+}
+
+#navbar ul li a:hover{
+background:white;
+color:blue;
+border-radius:20px;
+}
+
+.content{
+margin-top:80px;
+padding:20px;
+}

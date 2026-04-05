@@ -95,7 +95,7 @@ navigation-menu/
 
 Utkarsh Shetye
 
-GitHub: (https://github.com/kunalbagkar39/PRODIGY_WD_01.git)
+GitHub: (https://github.com/utkarshshetye2005/PRODIGY_WD_01.git)
 
 ---
 
